@@ -14,3 +14,5 @@
 *Updated backend security group to allow internal traffic for backend services to interact with each other
 
 *Launched EC2 instance and initialized RDS database through MySQL login
+
+* Created CloudFront distribution to host web app
