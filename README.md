@@ -15,4 +15,4 @@
 
 *Launched EC2 instance and initialized RDS database through MySQL login
 
-*Created CloudFront distribution to host web app (My Resume)
+*Created CloudFront distribution to host web app (My Resume) 
