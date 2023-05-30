@@ -1,6 +1,6 @@
 # Cloud-Native Project : Re-Architecting Web Application on AWS Cloud
 
-OVERVIEW
+#OVERVIEW
 
 
 *Logged into AWS account and created a key pair for Beanstalk instance
@@ -22,20 +22,20 @@ OVERVIEW
 
 
 
-WHAT I LEARNED
+#WHAT I LEARNED
 
 
--Practical knowledge on monaging AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
+*Practical knowledge on monaging AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
 
--Practical knowlege of Node.js
+*Practical knowlege of Node.js
 
--Practical knowledge of Amazon S3 to deploy web app
+*Practical knowledge of Amazon S3 to deploy web app
 
--Practical knowledge of Amazon ElasticBeanstalk to create cloud native environment
+*Practical knowledge of Amazon ElasticBeanstalk to create cloud native environment
 
 
 
-TECHNOLOGIES USED
+#TECHNOLOGIES USED
 
 
 HTML, CSS, JavaScript, Node.js, AWS CLI, AWS CodeDeploy, Amazon S3, AWS EC2 Instance, Amazon MQ, ECS Cluster, CloudFront, ElasticBeanstalk, Docker, SQL 
