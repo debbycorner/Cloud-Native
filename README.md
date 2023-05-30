@@ -2,6 +2,7 @@
 
 OVERVIEW
 
+
 *Logged into AWS account and created a key pair for Beanstalk instance
 
 *Created security group for backend services, Elasticache, RDS, and Active MQ
@@ -22,6 +23,8 @@ OVERVIEW
 
 
 WHAT I LEARNED
+
+
 *Practical knowledge on monaging AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
 *Practical knowlege of Node.js
 *Practical knowledge of Amazon S3 to deploy web app
@@ -30,5 +33,7 @@ WHAT I LEARNED
 
 
 TECHNOLOGIES USED
+
+
 HTML, CSS, JavaScript, Node.js, AWS CLI, AWS CodeDeploy, Amazon S3, AWS EC2 Instance, Amazon MQ, ECS Cluster, CloudFront, ElasticBeanstalk, Docker, SQL 
 
