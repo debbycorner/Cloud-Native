@@ -25,10 +25,13 @@ OVERVIEW
 WHAT I LEARNED
 
 
-*Practical knowledge on monaging AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
-*Practical knowlege of Node.js
-*Practical knowledge of Amazon S3 to deploy web app
-*Pratical knowledge of Amazon ElasticBeanstalk to create cloud native environment
+-Practical knowledge on monaging AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
+
+-Practical knowlege of Node.js
+
+-Practical knowledge of Amazon S3 to deploy web app
+
+-Practical knowledge of Amazon ElasticBeanstalk to create cloud native environment
 
 
 
