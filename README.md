@@ -36,7 +36,7 @@ ________________________________________________________________________________
 <h3> WHAT I LEARNED </h3>
 
 
-*Practical knowledge on monaging AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
+*Practical knowledge on managing AWS Databases, to store data safely in Amazon RDS(MySQL) and access it locally
 
 *Practical knowlege of Node.js
 
