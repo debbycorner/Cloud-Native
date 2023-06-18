@@ -57,7 +57,7 @@ ________________________________________________________________________________
 <h3> TECHNOLOGIES USED </h3>
 
 
-HTML, CSS, JavaScript, Node.js, AWS CLI, AWS CodeDeploy, Amazon S3, AWS EC2 Instance, Amazon MQ, ECS Cluster, ElastiCache, CloudFront, ElasticBeanstalk, Docker, SQL 
+HTML, CSS, JavaScript, Node.js, AWS CLI, AWS RDS, AWS CodeDeploy, Amazon S3, AWS EC2 Instance, Amazon MQ, ECS Cluster, ElastiCache, CloudFront, ElasticBeanstalk, 
 
 ___________________________________________________________________________________________________________________________________________________________________
 
